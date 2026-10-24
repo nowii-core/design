@@ -1,18 +1,67 @@
-#  Graphic Design & Visual Communication Portfolio
+# Graphic Design & Visual Communication Portfolio
 
-Welcome to my graphic design showcase! This repository features a curated selection of 22 visual design projects, showcasing expertise in brand identity, digital graphics, print design, and visual communication.
+<p align="center">
+  <b>A Curated Selection of 22 Visual Design Projects Showcasing Expertise in Brand Identity, Digital Graphics, Print Design, and Visual Communication</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nowii-core/portfoglio/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-007ec6?style=for-the-badge" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe CC">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Design-Graphic_%26_Visual-000000?style=for-the-badge" alt="Graphic Design">
+</p>
+
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-areas-of-expertise">Expertise</a> •
+  <a href="#-tools--technologies">Tools</a> •
+  <a href="#-work-showcase">Showcase</a> •
+  <a href="#-contact">Contact</a>
+</p>
 
 ---
 
-##  Tools & Technologies
+</div>
 
-- **Adobe Creative Cloud:** Photoshop, Illustrator, InDesign
-- **UI/UX & Prototyping:** Figma, Canva
-- **Design Core:** Visual Composition, Typography, Vector Illustration, Brand Identity
+## Overview
+
+Welcome to my graphic design showcase. This repository features a curated selection of 22 visual design projects, demonstrating a strong foundation in visual composition, typography, and brand identity. From digital graphics to print design, each project reflects a commitment to high-quality visual communication and creative problem-solving.
 
 ---
 
-##  Work Showcase
+## Preview
+
+![Graphic Design Preview](graphic-1.png)
+
+---
+
+## Areas of Expertise
+
+- **Brand Identity:** Logo design, brand guidelines, and visual identity systems.
+- **Digital Graphics:** Social media assets, web graphics, and digital campaigns.
+- **Print Design:** Editorial layouts, posters, and marketing collateral.
+- **Visual Communication:** Typography, color theory, and vector illustration.
+
+---
+
+## Tools & Technologies
+
+### Design Software
+- **Adobe Creative Cloud:** Photoshop, Illustrator, InDesign.
+- **UI/UX & Prototyping:** Figma, Canva.
+
+### Core Design Principles
+- Visual Composition
+- Typography
+- Vector Illustration
+- Brand Identity Systems
+
+---
+
+## Work Showcase
 
 Below is a collection of selected graphic design works:
 
@@ -62,7 +111,14 @@ Below is a collection of selected graphic design works:
 
 ---
 
-##  Connect with Me
+## Contact & Support
 
-- **GitHub Profile:** [@nowii-core](https://github.com/nowii-core)
-- **Open for:** Freelance projects, visual design collaborations, and full-time opportunities.
+- **Maintainer:** [@nowii-core](https://github.com/nowii-core)
+- **Status:** Open for freelance projects, visual design collaborations, and full-time opportunities.
+- **GitHub Profile:** [github.com/nowii-core](https://github.com/nowii-core)
+
+---
+
+<div align="center">
+  <sub>Developed by <b>nowii-core</b></sub>
+</div>
