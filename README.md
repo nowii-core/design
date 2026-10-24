@@ -1,7 +1,7 @@
 # Graphic Design & Visual Communication Portfolio
 
 <p align="center">
-  <b>A Curated Selection of 22 Visual Design Projects Showcasing Expertise in Brand Identity, Digital Graphics, Print Design, and Visual Communication</b>
+  <b>A Curated Selection of 23 Visual Design Projects Showcasing Expertise in Brand Identity, Digital Graphics, Print Design, and Visual Communication</b>
 </p>
 
 <p align="center">
@@ -28,13 +28,15 @@
 
 ## Overview
 
-Welcome to my graphic design showcase. This repository features a curated selection of 22 visual design projects, demonstrating a strong foundation in visual composition, typography, and brand identity. From digital graphics to print design, each project reflects a commitment to high-quality visual communication and creative problem-solving.
+Welcome to my graphic design showcase. This repository features a curated selection of 23 visual design projects, demonstrating a strong foundation in visual composition, typography, and brand identity. From digital graphics to print design, each project reflects a commitment to high-quality visual communication and creative problem-solving.
 
 ---
 
 ## Preview
 
-![Graphic Design Preview](graphic-1.png)
+<p align="center">
+  <img src="graphic-23.png" alt="Graphic Design Preview" width="100%">
+</p>
 
 ---
 
@@ -63,49 +65,75 @@ Welcome to my graphic design showcase. This repository features a curated select
 
 ## Work Showcase
 
-Below is a collection of selected graphic design works:
+Below is a curated collection of selected graphic design works:
 
 <div align="center">
 
 ### 01 – 05
-![Graphic 1](graphic-1.png)
-![Graphic 2](graphic-2.png)
-![Graphic 3](graphic-3.png)
-![Graphic 4](graphic-4.png)
-![Graphic 5](graphic-5.png)
+<p align="center">
+  <img src="graphic-1.png" width="48%" />
+  <img src="graphic-2.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-3.png" width="48%" />
+  <img src="graphic-4.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-5.png" width="48%" />
+</p>
 
 ---
 
 ### 06 – 10
-![Graphic 6](graphic-6.png)
-![Graphic 7](graphic-7.png)
-![Graphic 8](graphic-8.png)
-![Graphic 9](graphic-9.png)
-![Graphic 10](graphic-10.png)
+<p align="center">
+  <img src="graphic-6.png" width="48%" />
+  <img src="graphic-7.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-8.png" width="48%" />
+  <img src="graphic-9.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-10.png" width="48%" />
+</p>
 
 ---
 
 ### 11 – 15
-![Graphic 11](graphic-11.png)
-![Graphic 12](graphic-12.png)
-![Graphic 13](graphic-13.png)
-![Graphic 14](graphic-14.png)
-![Graphic 15](graphic-15.png)
+<p align="center">
+  <img src="graphic-11.png" width="48%" />
+  <img src="graphic-12.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-13.png" width="48%" />
+  <img src="graphic-14.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-15.png" width="48%" />
+</p>
 
 ---
 
 ### 16 – 20
-![Graphic 16](graphic-16.png)
-![Graphic 17](graphic-17.png)
-![Graphic 18](graphic-18.png)
-![Graphic 19](graphic-19.png)
-![Graphic 20](graphic-20.png)
+<p align="center">
+  <img src="graphic-16.png" width="48%" />
+  <img src="graphic-17.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-18.png" width="48%" />
+  <img src="graphic-19.png" width="48%" />
+</p>
+<p align="center">
+  <img src="graphic-20.png" width="48%" />
+</p>
 
 ---
 
 ### 21 – 22
-![Graphic 21](graphic-21.png)
-![Graphic 22](graphic-22.png)
+<p align="center">
+  <img src="graphic-21.png" width="48%" />
+  <img src="graphic-22.png" width="48%" />
+</p>
 
 </div>
 
