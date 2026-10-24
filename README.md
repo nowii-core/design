@@ -65,77 +65,48 @@ Welcome to my graphic design showcase. This repository features a curated select
 
 ## Work Showcase
 
-Below is a curated collection of selected graphic design works:
-
-<div align="center">
+Below is a curated collection of selected graphic design works.
 
 ### 01 – 05
-<p align="center">
-  <img src="graphic-1.png" width="48%" />
-  <img src="graphic-2.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-3.png" width="48%" />
-  <img src="graphic-4.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-5.png" width="48%" />
-</p>
+| | |
+| :---: | :---: |
+| <img src="graphic-1.png" width="400" /> | <img src="graphic-2.png" width="400" /> |
+| <img src="graphic-3.png" width="400" /> | <img src="graphic-4.png" width="400" /> |
+| <img src="graphic-5.png" width="400" /> | |
 
 ---
 
 ### 06 – 10
-<p align="center">
-  <img src="graphic-6.png" width="48%" />
-  <img src="graphic-7.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-8.png" width="48%" />
-  <img src="graphic-9.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-10.png" width="48%" />
-</p>
+| | |
+| :---: | :---: |
+| <img src="graphic-6.png" width="400" /> | <img src="graphic-7.png" width="400" /> |
+| <img src="graphic-8.png" width="400" /> | <img src="graphic-9.png" width="400" /> |
+| <img src="graphic-10.png" width="400" /> | |
 
 ---
 
 ### 11 – 15
-<p align="center">
-  <img src="graphic-11.png" width="48%" />
-  <img src="graphic-12.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-13.png" width="48%" />
-  <img src="graphic-14.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-15.png" width="48%" />
-</p>
+| | |
+| :---: | :---: |
+| <img src="graphic-11.png" width="400" /> | <img src="graphic-12.png" width="400" /> |
+| <img src="graphic-13.png" width="400" /> | <img src="graphic-14.png" width="400" /> |
+| <img src="graphic-15.png" width="400" /> | |
 
 ---
 
 ### 16 – 20
-<p align="center">
-  <img src="graphic-16.png" width="48%" />
-  <img src="graphic-17.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-18.png" width="48%" />
-  <img src="graphic-19.png" width="48%" />
-</p>
-<p align="center">
-  <img src="graphic-20.png" width="48%" />
-</p>
+| | |
+| :---: | :---: |
+| <img src="graphic-16.png" width="400" /> | <img src="graphic-17.png" width="400" /> |
+| <img src="graphic-18.png" width="400" /> | <img src="graphic-19.png" width="400" /> |
+| <img src="graphic-20.png" width="400" /> | |
 
 ---
 
 ### 21 – 22
-<p align="center">
-  <img src="graphic-21.png" width="48%" />
-  <img src="graphic-22.png" width="48%" />
-</p>
-
-</div>
+| | |
+| :---: | :---: |
+| <img src="graphic-21.png" width="400" /> | <img src="graphic-22.png" width="400" /> |
 
 ---
 
