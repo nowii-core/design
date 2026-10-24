@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nowii-core/portfoglio/blob/main/LICENSE">
+  <a href="https://github.com/nowii-core/design/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-007ec6?style=for-the-badge" alt="License">
   </a>
   <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe CC">
@@ -68,45 +68,70 @@ Welcome to my graphic design showcase. This repository features a curated select
 Below is a curated collection of selected graphic design works.
 
 ### 01 – 05
-| | |
-| :---: | :---: |
-| <img src="graphic-1.png" width="400" /> | <img src="graphic-2.png" width="400" /> |
-| <img src="graphic-3.png" width="400" /> | <img src="graphic-4.png" width="400" /> |
-| <img src="graphic-5.png" width="400" /> | |
+<p align="center">
+  <img src="graphic-1.png" width="48%" alt="Design 1" />
+  <img src="graphic-2.png" width="48%" alt="Design 2" />
+</p>
+<p align="center">
+  <img src="graphic-3.png" width="48%" alt="Design 3" />
+  <img src="graphic-4.png" width="48%" alt="Design 4" />
+</p>
+<p align="center">
+  <img src="graphic-5.png" width="48%" alt="Design 5" />
+</p>
 
 ---
 
 ### 06 – 10
-| | |
-| :---: | :---: |
-| <img src="graphic-6.png" width="400" /> | <img src="graphic-7.png" width="400" /> |
-| <img src="graphic-8.png" width="400" /> | <img src="graphic-9.png" width="400" /> |
-| <img src="graphic-10.png" width="400" /> | |
+<p align="center">
+  <img src="graphic-6.png" width="48%" alt="Design 6" />
+  <img src="graphic-7.png" width="48%" alt="Design 7" />
+</p>
+<p align="center">
+  <img src="graphic-8.jpg" width="48%" alt="Design 8" />
+  <img src="graphic-9.png" width="48%" alt="Design 9" />
+</p>
+<p align="center">
+  <img src="graphic-10.png" width="48%" alt="Design 10" />
+</p>
 
 ---
 
 ### 11 – 15
-| | |
-| :---: | :---: |
-| <img src="graphic-11.png" width="400" /> | <img src="graphic-12.png" width="400" /> |
-| <img src="graphic-13.png" width="400" /> | <img src="graphic-14.png" width="400" /> |
-| <img src="graphic-15.png" width="400" /> | |
+<p align="center">
+  <img src="graphic-11.png" width="48%" alt="Design 11" />
+  <img src="graphic-12.png" width="48%" alt="Design 12" />
+</p>
+<p align="center">
+  <img src="graphic-13.png" width="48%" alt="Design 13" />
+  <img src="graphic-14.png" width="48%" alt="Design 14" />
+</p>
+<p align="center">
+  <img src="graphic-15.png" width="48%" alt="Design 15" />
+</p>
 
 ---
 
 ### 16 – 20
-| | |
-| :---: | :---: |
-| <img src="graphic-16.png" width="400" /> | <img src="graphic-17.png" width="400" /> |
-| <img src="graphic-18.png" width="400" /> | <img src="graphic-19.png" width="400" /> |
-| <img src="graphic-20.png" width="400" /> | |
+<p align="center">
+  <img src="graphic-16.png" width="48%" alt="Design 16" />
+  <img src="graphic-17.png" width="48%" alt="Design 17" />
+</p>
+<p align="center">
+  <img src="graphic-18.png" width="48%" alt="Design 18" />
+  <img src="graphic-19.png" width="48%" alt="Design 19" />
+</p>
+<p align="center">
+  <img src="graphic-20.png" width="48%" alt="Design 20" />
+</p>
 
 ---
 
 ### 21 – 22
-| | |
-| :---: | :---: |
-| <img src="graphic-21.png" width="400" /> | <img src="graphic-22.png" width="400" /> |
+<p align="center">
+  <img src="graphic-21.png" width="48%" alt="Design 21" />
+  <img src="graphic-22.png" width="48%" alt="Design 22" />
+</p>
 
 ---
 
